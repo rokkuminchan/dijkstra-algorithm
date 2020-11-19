@@ -1,0 +1,15 @@
+StartVertex,AdjacentVertex,Distance
+a,b,6
+a,d,1
+b,a,6
+b,c,5
+b,d,2
+b,e,2
+c,b,5
+c,e,5
+d,a,1
+d,b,2
+d,e,1
+e,b,2
+e,d,1
+e,c,5

@@ -1,0 +1,19 @@
+{
+  "name": "dijkstra-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "json-2-csv": "^3.7.8"
+  }
+}
